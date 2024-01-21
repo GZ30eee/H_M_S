@@ -1,0 +1,10 @@
+.form
+{
+	height: 135vh;
+}
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button
+{
+	display: none;
+	margin: 0;
+}
